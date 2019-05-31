@@ -1,4 +1,4 @@
-
+-- Desc : -- Do not pick up any valid tables and columns --
 -- Script External referral Addition --
 
 ALTER TABLE u_pat_table
